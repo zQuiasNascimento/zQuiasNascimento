@@ -11,7 +11,7 @@
 
 ## 🔥 Sobre Mim
 
-**👨‍💼 Profissão:** Supervisor de Suporte Técnico  
+**👨‍💼 Profissão:** Supervisor Suporte Técnico  
 **🎓 Estudando:** Análise e Desenvolvimento de Sistemas  
 **📍 Local:** São Paulo - SP  
 **🎯 Meta:** Tornar-me Desenvolvedor Full Stack, criando projetos inteligentes e soluções inovadoras que gerem impacto real. 
