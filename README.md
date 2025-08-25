@@ -82,16 +82,6 @@
 ⚽ **Futsal** - Trabalho em equipe  
 📚 **Estudos** - Sempre aprendendo algo novo  
 
----
-
-## 📫 Vamos Conversar?
-
-**💼 Procurando:** Oportunidades como Desenvolvedor Junior  
-**🤝 Aberto para:** Projetos de automação e desenvolvimento web  
-**🎮 Curiosidade:** Transformo problemas reais em soluções de código!  
-
----
-
 <div align="center">
 
 **"Todo bug é só um puzzle esperando para ser resolvido!" 🎮**
